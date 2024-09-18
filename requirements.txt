@@ -1,0 +1,6 @@
+mzml2isa
+nmrml2isa
+
+Sphinx
+sphinx-rtd-theme
+sphinxcontrib-napoleon
